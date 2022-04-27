@@ -1,0 +1,16 @@
+{
+	"name": "Дуэль!",
+	"short_name": "Дуэль!",
+	"description": "ПОРА СТАТЬ ЛУЧШИМ ДУЭЛИСТОМ! Оттачивай мастерство! Стреляй по врагам и находи Амогусов!!!",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/Иконка-16.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		}
+	]
+}
